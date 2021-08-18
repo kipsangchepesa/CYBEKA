@@ -9,3 +9,5 @@ With both parties banking on the changes contained in the Constitution of Kenya 
 # Proposed solution
 # cybeka main objective
 We are using this project seeks to inform the public, decision makers(court of appeal), the superintendents of BBI and those opposing it if the people of Kenya are in the first place, in support of the initiative before going ahead to spend hard earned tax-payers money on matters of their little concern.
+# DISCLAIMER.
+# This project is for academic purposes only and not a reflection of future outcomes of Kenya politics in any shape or form.
